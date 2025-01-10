@@ -207,15 +207,15 @@ footer p {
           display: grid;
           grid-template-columns: 1fr 1fr;
           align-items: center;
+          margin: 3rem;
      }
      .side{
-          padding: 4rem 8rem 4rem 8rem;
+          padding: 4rem 8rem 4rem 10rem;
           text-align: left;
      }
      .pic img{
           transition: transform 0.3s ease;
-          transform: scale(1.2);
-          margin-right: 50px;
+          transform: scale(1.3);
      }
      .work .three{
           display: grid;
